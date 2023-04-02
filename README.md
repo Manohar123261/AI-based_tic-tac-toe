@@ -1,6 +1,6 @@
 <!-- # AI-based_tic-tac-toe
 I develoved it in tkinter by using python language.
-this is main branch
+this is advance tic tac  branch
 advance version of tic-tac-toe game
 --code is here-- -->
 
