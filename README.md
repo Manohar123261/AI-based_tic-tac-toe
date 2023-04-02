@@ -1,8 +1,8 @@
-# AI-based_tic-tac-toe
+<!-- # AI-based_tic-tac-toe
 I develoved it in tkinter by using python language.
 
 
---code is here--
+--code is here-- -->
 
 from tkinter import *
 import random
